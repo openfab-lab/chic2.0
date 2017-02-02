@@ -1,8 +1,9 @@
-# chic2.0
-## CHIC « Cultural Hybridization In Common »
+# Chic2.0
+## Nom de code C.H.I.C « Cultural Hybridization In Common »
 Repo pour la documentation des ateliers du projet européen CHIC2.0  
 [Readme english](https://github.com/openfab-lab/chic2.0/blob/master/Readme-EN.md)
 
+#### Contexte:
 **CHIC** est un espace collaboratif international de Design Social répondant à de nouvelles dynamiques sociétales.  
 CHIC a la volonté de créer des passerelles entre les domaines du design, des arts appliqués, du numérique, de l’éducation populaire et de l’économie sociale et solidaire. Dans la lignée du « Do It together », il a pour objet de développer une nouvelle forme de production design,  d’initier de nouvelles sociabilités, du « bien commun » par l’expérimentation de processus coopératifs de création artistique et d’auto-production avec les citoyens.
 
@@ -17,10 +18,11 @@ CHIC s’appuie sur un écosystème contributif et participatif fondés sur :
 3. Espace numérique : conception d'une plateforme web, support d'échanges, outil de collecte des données, canal d'usage des données pour tous. 
 
 **13 actions spécifiques :**  
+
 *I - Espaces de coopération*  
 1. : [Workshop 1 interprofessionnel de conception](https://github.com/openfab-lab/chic2.0/blob/master/Workshop1-BCN.md) / fabrication de tampon à Barcelone  
 2. : Workshop 2 interprofessionnel de conception / fabrication de tampon à St Denis  
-3. : Workshop 3 interprofessionnel de conception / fabrication d'un pantographe à Bruxelles, technique et usage  
+3. : [Workshop 3 interprofessionnel de conception](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/README.md) / fabrication d'un pantographe à Bruxelles, technique et usage  
 4. : Workshop 4 interprofessionnel de conception / fabrication de tampon et tes de fabrication d'une presse numérique à Rome  
 
 *II - Espaces d'immersion sur les territoires*  
