@@ -12,8 +12,9 @@ CHIC s’appuie sur un écosystème contributif et participatif fondés sur :
 - Les usagers : professionnels des métiers de la création, « makers », habitants et salariés, associations, collectivités, universités, jeunes…
 - Les technologies numériques : Computer Numerical Control, co-conception d’outils de management, de recherche contributive, de diffusion…  
 
-**CHIC développe 3 axes :**
-1. Espaces de coopération par des workshops transnationaux et interprofessionnels : expérimentation d’un process de design sur le thème commun du « tampon » pour créer des modèles réduits en 2D, 3D pour un usage manuel (tampons de peau, pour la gastronomie…), une presse à impression numérique pour produire des séries adaptées à différents supports (papier, textile, plexi…) ;  
+**CHIC développe 3 axes :**  
+
+1. Espaces de coopération par des workshops transnationaux et interprofessionnels : expérimentation d’un process de design sur le thème commun du « tampon » pour créer des modèles réduits en 2D, 3D pour un usage manuel (tampons de peau, pour la gastronomie…), une presse à impression numérique pour produire des séries adaptées à différents supports (papier, textile, plexi…)  
 2. Espaces d'immersion sur les territoires pour atteindre toutes sortes de publics tels les jeunes, habitants et publics non sensibilisés /élus, artisans, professionnels    
 3. Espace numérique : conception d'une plateforme web, support d'échanges, outil de collecte des données, canal d'usage des données pour tous.    
 
