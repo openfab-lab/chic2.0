@@ -8,7 +8,8 @@ http://bidouillesetmathscollege.blogspot.be/2012/02/pantographes.html
 Après un premier proto très basique, les conclusions mathématiques sont:   
 Soit les points **A**, **B** et **C** avec A fixe, B le porte outils et C le guide.   
 Soit **R** = le ratio   
-ET les segments tel que:
+ET les segments tel que:  
+
 ![Math00](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/Math00.png)
 
 Le calcul de ratio se fait en fonction de la longueur totale du segment AD divisé par la longueur de AE.    
