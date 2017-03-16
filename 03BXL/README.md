@@ -3,7 +3,7 @@
 
 ### Fabrication d'un pantographe
 
-**objectifs: **
+**objectifs:**
 Créer une machine pour assister la réalisation de cachet.  
 Les enjeux sont simples:  
 - de nombreuses techniques de fabrication de cachets existent #problem
@@ -17,8 +17,8 @@ Les enjeux sont simples:
 - Opération nécéssitant un savoir-faire numérique, l'assistance du/des fab-managers est presque indispensable en plus d'avoir un accès aux machines laser en question.
 - Objectif suivant lors du workshop à Rome (IT) : workshop de création de motifs AVEC des groupes d'enfants. thématique: le textile
 
-**Pistes pour les workshop de Bruxelles:**
-- Mars à Openfab: 
+### Pistes pour les workshop de Bruxelles:**
+#### 29/30/31 Mars à Openfab: 
 http://openfab.be/
 
 workshop technique - développement et fabrication de machines
@@ -28,7 +28,7 @@ Répartition en groupes
 	- 1 machine moyennement lourde pour la gravure dans des matériaux plus résistants en surface, linogravure, bois, caoutchouc, etc... Guide (On/off) + fraise type dremel/proxxon. 
 	- 1 machine lourde, pour la gravure plus profonde. "sculpture". Guide (on/off) et contre-poid + structure plus rigide et fraiseuse type défonceuse CNC
 	
-- Mai à MadeInKit: 
+#### 24/25/26 Mai à MadeInKit: 
 http://www.madeinkit.be/
 
 Workshop pédagogique - développement des usages des machines du workshop précédent.
@@ -37,5 +37,5 @@ Test live avec un groupe d'enfants.
 
 
 **Ressource:**
-
+http://bidouillesetmathscollege.blogspot.be/2012/02/pantographes.html
 http://warmaths.fr/MATH/FONCTLINEAIRE/Echmateriel.htm
