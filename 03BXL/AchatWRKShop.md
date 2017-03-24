@@ -5,17 +5,18 @@ Source: Schleipper?
 
 - [x] Coussin encreur grande taille, 3x (3 couleurs)
 - [x] Encres (3 couleurs, RGB?)
-- [ ] Lino, plaque "rubber" à sculpter. Format?
-- [ ] Tapis de découpe 2x A3, 2x A1
+- [x] Lino, plaque "rubber" à sculpter. Format?
+- [x] Tapis de découpe 4x A3, 1x A1
 - [x] Colle plexi (acetone + chute plexi)
 - [x] Colle Epoxy
+- [x] rouleau encreur et plateau encreur (lino)
 - [ ] autres?
 
 ## Consommable 3Dprint
 Source: Eumaker + IGUS
 
-- [ ] Filament PLA
-- [ ] Filament IGUS polymère (rotule, axes)
+- [x] Filament PLA
+- [x] Filament IGUS polymère (rotule, axes)
 - [ ] Autres?
 
 ## Consommable matériaux 
@@ -24,7 +25,7 @@ Source: divers
 - [ ] MDF 3 et 6mm, structure.
 - [ ] Multiplex bouleau 18mm, support de gravure de bonne qualité. 
 - [ ] Plexi transparent 3mm, structure.
-- [ ] Plaque de cuivre, pleine et/ou FR4, pour test de gravure à l'acide. 
+- [x] Plaque de cuivre, pleine et/ou FR4, pour test de gravure à l'acide. 
 - [ ] ACIDE. [Copper chloride acid](http://www.instructables.com/id/Stop-using-Ferric-Chloride-etchant!--A-better-etc/)
 - [ ] Autres?
 
@@ -42,5 +43,5 @@ Source: ITS
 - [x] Ponceuse à bande mini BS/E, proxxon, pour le ponçage de précision des éléments.
 - [x] table de fraisage manuelle, proxxon, pour les trous de précision.
 
-## Autres?
+## Autres? -> Brico, ITS
 - [ ] Quincaillerie (vis, roulements, rondelles, ...)
