@@ -49,14 +49,20 @@ Logiciel propriétaire mais très accessible, comprenant à la fois les outils d
 https://inkscape.org/
 
 
-## Composantes du montage
+## Les objectifs:
 
 **Description temporaire en vrac des sujets à questionnement:**  
 
-- 3 types d'outils (point B): 
+- 3 types d'outils (point B) = 3 modèles de : 
   - léger: bic, crayon, pointe sèche, feutre, .... 
   - moyen: dremel ou allonge flexible, ... 
   - lourd: makita,....
+  
+- Structure?
+	- rigidité en fonction de l'outil?
+	- matériaux? 
+	- méthode de fabrication, actuellement découpe laser et print3D + quincaillerie.
+  
 - Safety kids?    Quels sont les éléments auxquels faire attention?
   - projection copeaux?
   - poids? 
@@ -70,15 +76,32 @@ https://inkscape.org/
 - Les guides? (point C)
   - échelles visuelles de référence adpatée au ratio de réduction et à l'outil utilisé.
   - visibilité? (élément en plexi)
-- Structure?
-	- rigidité en fonction de l'outil?
-	- matériaux? 
-	- méthode de fabrication, actuellement découpe laser et print3D + quincaillerie.
+
 - Limiteur Z, pour ajuster la profondeur de gravure de l'outil en fonction du matériau gravé?
 - autres?
 
-
+## Composantes du montage
 ### A - Point Fixe
+
+Le point fixe pourrait s'accrocher à la table avec une pince de type lampe de bureau. Je suis partis de ce modèle:   
+http://www.thingiverse.com/thing:1460590
+
+Pourquoi? Parce qu'avec la même pince, on peut y adapter différentes têtes grâce à une encoche en queue d'arronde. 
+Print en PET pour plus de solidité. La première version en PLA a cassée sous la pression de serrage.   
+
+Fusion360 file: http://a360.co/2n9jVwL    
+
+![pointA1.1](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/PointA1.1.jpg)   
+
+![pointA1.2](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointA1.2.jpg)    
+
+**Matos:**   
+- 2x vis M3 12mm,   
+- 2x vis M6 16mm, tête fraisée  
+- 1x rondelle M6.  
+- Et un tarraud M3 pour le pas de vis M3 dans "MountA"  
+
+
 ### B - Porte outil
 
 ##### crayon/pencil
@@ -86,6 +109,7 @@ Simple hack avec un taraud M8 pour fixer un crayon à l'intérieur d'un roulemen
 
 ![pointB1](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointB0.1.jpg)
 ![pointB2](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointB0.2.jpg)    
+
 
 
 ### C - Guide
