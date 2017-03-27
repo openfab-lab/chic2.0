@@ -86,7 +86,7 @@ https://inkscape.org/
 Le point fixe pourrait s'accrocher à la table avec une pince de type lampe de bureau. Je suis partis de ce modèle:   
 http://www.thingiverse.com/thing:1460590
 
-Pourquoi? Parce qu'avec la même pince, on peut y adapter différentes têtes grâce à une encoche en queue d'arronde. 
+Pourquoi? Parce qu'avec la même pince, on peut y adapter différentes têtes grâce à une encoche en queue d'aronde. 
 Print en PET pour plus de solidité. La première version en PLA a cassée sous la pression de serrage.   
 
 Fusion360 file: http://a360.co/2n9jVwL    
@@ -98,18 +98,39 @@ Fusion360 file: http://a360.co/2n9jVwL
 **Matos:**   
 - 2x vis M3 12mm,   
 - 2x vis M6 16mm, tête fraisée  
-- 1x rondelle M6.  
-- Et un tarraud M3 pour le pas de vis M3 dans "MountA"  
+- 1x rondelle M6,  
+- 1x Ecrou M6,  
+- 1x taraud M3 pour le pas de vis M3 dans "MountA"  
+- 1x taraud M6 pour le pas de vis M6 dans le connecteur en queue d'aronde. 
 
 
 ### B - Porte outil
 
 ##### crayon/pencil
+**Version 0.0**  
 Simple hack avec un taraud M8 pour fixer un crayon à l'intérieur d'un roulement.   Si ça servira? Je ne sais pas, mais j'étais content de moi. :)
 
-![pointB1](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointB0.1.jpg)
-![pointB2](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointB0.2.jpg)    
+![pointB0.1](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointB0.1.jpg)  
+![pointB0.2](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointB0.2.jpg)    
 
+**Version 1.1**    
+L'outil doit se positionner exactement au croisement des axes et pouvoir coulisser. L'idée de départ était d'utiliser un roulement à bille et de trouver le moyen de faire passer l'outil dans son centre puis de fixer les axes dessus.  
+
+Fusion360 file: http://a360.co/2n8FAnX   
+
+![pointB1.1](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointB1.1.jpg)  
+![pointB1.3](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointB1.3.jpg)  
+
+note: pour l'impression 3D de l'écrou "MegaBolt.stl", pour que le pas de vis coulisse bien, il faut agrandir X et Y (scale x1.02) , Z reste inchangé.
+
+**Version 2.1**
+
+Le roulement coute un peu cher, n'est pas standard et il provenait de mon stock.   
+Son centre est d'un diamètre de 17mm, ce qui fonctionne bien mais limite cette solution pour utiliser des outils de diamètre supérieur à 10mm. Cette version crée le même principe mais complétement imprimé en 3D, le modèle est paramétrique donc ajustable au diamètre de l'outil.   
+
+Fusion360 file: http://a360.co/2nrWama
+
+![pointB2.1](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointB2.1.jpg)
 
 
 ### C - Guide
