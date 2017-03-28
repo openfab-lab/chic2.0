@@ -1,5 +1,35 @@
 # Workshop BXL 
 ## Objectifs 
+
+**Description temporaire en vrac des sujets à questionnement:**  
+
+- 3 types d'outils (point B) = 3 modèles de : 
+  - léger: bic, crayon, pointe sèche, feutre, .... 
+  - moyen: dremel ou allonge flexible, ... 
+  - lourd: makita,....
+  
+- Structure?
+	- rigidité en fonction de l'outil?
+	- matériaux? 
+	- méthode de fabrication, actuellement découpe laser et print3D + quincaillerie.
+  
+- Safety kids?    Quels sont les éléments auxquels faire attention?
+  - projection copeaux?
+  - poids? 
+  - Mise en action? Que se passe t'il si l'enfant lache le guide? Arrêt automatique, balance de l'outil, séparation physique entre outil et guide avec plexi?
+- Les matériaux?
+  - Lino
+  - Bois
+  - Caoutchouc
+  - métal, cuivre, laiton?
+  Est-ce qu'il y a des risques de projections, d'usage, d'usinage? Quels sont les méthodes de travail?
+- Les guides? (point C)
+  - échelles visuelles de référence adpatée au ratio de réduction et à l'outil utilisé.
+  - visibilité? (élément en plexi)
+
+- Limiteur Z, pour ajuster la profondeur de gravure de l'outil en fonction du matériau gravé?
+- autres?
+
 ## Contenu du workshop
 ### Les bases mathématique
 *référence:*  
@@ -49,36 +79,6 @@ Logiciel propriétaire mais très accessible, comprenant à la fois les outils d
 https://inkscape.org/
 
 
-## Les objectifs:
-
-**Description temporaire en vrac des sujets à questionnement:**  
-
-- 3 types d'outils (point B) = 3 modèles de : 
-  - léger: bic, crayon, pointe sèche, feutre, .... 
-  - moyen: dremel ou allonge flexible, ... 
-  - lourd: makita,....
-  
-- Structure?
-	- rigidité en fonction de l'outil?
-	- matériaux? 
-	- méthode de fabrication, actuellement découpe laser et print3D + quincaillerie.
-  
-- Safety kids?    Quels sont les éléments auxquels faire attention?
-  - projection copeaux?
-  - poids? 
-  - Mise en action? Que se passe t'il si l'enfant lache le guide? Arrêt automatique, balance de l'outil, séparation physique entre outil et guide avec plexi?
-- Les matériaux?
-  - Lino
-  - Bois
-  - Caoutchouc
-  - métal, cuivre, laiton?
-  Est-ce qu'il y a des risques de projections, d'usage, d'usinage? Quels sont les méthodes de travail?
-- Les guides? (point C)
-  - échelles visuelles de référence adpatée au ratio de réduction et à l'outil utilisé.
-  - visibilité? (élément en plexi)
-
-- Limiteur Z, pour ajuster la profondeur de gravure de l'outil en fonction du matériau gravé?
-- autres?
 
 ## Composantes du montage
 ### A - Point Fixe
