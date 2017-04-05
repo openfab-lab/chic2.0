@@ -1,4 +1,14 @@
 # Workshop BXL 
+note post workshop1:  
+- [ ] Compléter les logiciels utilisés, justification?  
+- [ ] Trier les documents en dossier /source, /référence, *...autres?*  
+- [ ] Compléter la doc
+- [ ] Faire le point sur les matériaux utilisés
+- [ ] Scanner les papiers et ordonner chronologiquement
+- [ ] Proposer la transcription des notes "prototype step"
+- [ ] Comment gérer les traductions?
+- [ ] Comment gérer les "issues" càd les bugs, les points à améliorer, les nouvelles pistes à explorer, ...  
+
 ## Objectifs 
 
 **Description temporaire en vrac des sujets à questionnement:**  
@@ -15,6 +25,7 @@
   
 - Safety kids?    Quels sont les éléments auxquels faire attention?
   - projection copeaux?
+  - ~~220V~~ vs 12V
   - poids? 
   - Mise en action? Que se passe t'il si l'enfant lache le guide? Arrêt automatique, balance de l'outil, séparation physique entre outil et guide avec plexi?
 - Les matériaux?
