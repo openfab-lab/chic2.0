@@ -1,5 +1,6 @@
 # Workshop 3 - Bruxelles Openfab
-Artiste Belge : [Julien Dutertre](http://juliendutertre.com/)
+Designer : Désiré Nwaobasi (Fabmanager Fablab de l'Académie des beaux-arts de Bruxelles)   
+https://www.facebook.com/fablab.arba.esa/
 
 - Présentation:  
 - Documentation:  
