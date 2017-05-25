@@ -20,5 +20,10 @@
 ![Disposition MadeInKit D1](https://cloud.githubusercontent.com/assets/12049360/26450591/894e558c-4158-11e7-8a88-05d372329fd7.png)
 
 ## Day 2
-
+### matos
 - Tshirt blanc?
+
+### Disposition
+![Disposition MadeInKit D2](https://cloud.githubusercontent.com/assets/12049360/26450634/c16ed540-4158-11e7-86bf-1468f08dd4fa.png)
+
+
