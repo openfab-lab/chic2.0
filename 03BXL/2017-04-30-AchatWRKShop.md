@@ -22,11 +22,11 @@ Source: Eumaker + IGUS
 ## Consommable matériaux 
 Source: divers
 
-- [ ] MDF 3 et 6mm, structure.
+- [x] MDF 3 et 6mm, structure.
 - [ ] Multiplex bouleau 18mm, support de gravure de bonne qualité. 
 - [ ] Plexi transparent 3mm, structure.
 - [x] Plaque de cuivre, pleine et/ou FR4, pour test de gravure à l'acide. 
-- [ ] ACIDE. [Copper chloride acid](http://www.instructables.com/id/Stop-using-Ferric-Chloride-etchant!--A-better-etc/)
+- [x] ACIDE. [Copper chloride acid](http://www.instructables.com/id/Stop-using-Ferric-Chloride-etchant!--A-better-etc/)
 - [ ] Autres?
 
 ## Machines
@@ -44,4 +44,4 @@ Source: ITS
 - [x] table de fraisage manuelle, proxxon, pour les trous de précision.
 
 ## Autres? -> Brico, ITS
-- [ ] Quincaillerie (vis, roulements, rondelles, ...)
+- [x] Quincaillerie (vis, roulements, rondelles, ...)
