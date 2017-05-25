@@ -1,5 +1,6 @@
-# Liste matériel 
+# Information complémentaire
 ## Day 1
+### matos
 
 - 4 kit pour construire le petit pantographe (voir [kit1]() )
 - 1 Pantographe de gravure (voir [kit2]() )
@@ -14,6 +15,9 @@
 - peinture pour textile, différentes couleurs
 - Pochettes en tissus (cotton) 
 
+### Disposition
+
+![Disposition MadeInKit D1](https://cloud.githubusercontent.com/assets/12049360/26450591/894e558c-4158-11e7-8a88-05d372329fd7.png)
 
 ## Day 2
 
