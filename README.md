@@ -2,6 +2,7 @@
 ## Nom de code C.H.I.C « Cultural Hybridization In Common »
 Repo pour la documentation des ateliers du projet européen CHIC2.0  
 [Readme in english](https://github.com/openfab-lab/chic2.0/blob/master/Readme-EN.md)
+[Le site de Plaine Commune à St-Denis, dédié à CHIC2.0](http://www.projet-chic.plainecommune.fr/chic/le-projet/#.WShCIW4lGM8)
 
 #### Contexte:
 **CHIC** est un espace collaboratif international de Design Social répondant à de nouvelles dynamiques sociétales.  
