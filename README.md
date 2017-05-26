@@ -1,7 +1,7 @@
 # Chic2.0
 ## Nom de code C.H.I.C « Cultural Hybridization In Common »
-Repo pour la documentation des ateliers du projet européen CHIC2.0  
-[Readme in english](https://github.com/openfab-lab/chic2.0/blob/master/Readme-EN.md)
+Dépôt GIT pour la documentation des ateliers Openfab dans le projet européen CHIC2.0  
+[Readme in english](https://github.com/openfab-lab/chic2.0/blob/master/Readme-EN.md)  
 [Le site de Plaine Commune à St-Denis, dédié à CHIC2.0](http://www.projet-chic.plainecommune.fr/chic/le-projet/#.WShCIW4lGM8)
 
 #### Contexte:
@@ -24,14 +24,14 @@ CHIC s’appuie sur un écosystème contributif et participatif fondés sur :
 *I - Espaces de coopération*  
 1. : [Workshop 1 interprofessionnel de conception](https://github.com/openfab-lab/chic2.0/blob/master/Workshop1-BCN.md) / fabrication de tampon à Barcelone  
 2. : Workshop 2 interprofessionnel de conception / fabrication de tampon à St Denis  
-3. : [Workshop 3 interprofessionnel de conception](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/README.md) / fabrication d'un pantographe à Bruxelles, technique et usage  
-4. : Workshop 4 interprofessionnel de conception / fabrication de tampon et tes de fabrication d'une presse numérique à Rome  
+3. : [Workshop 3 interprofessionnel de conception](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/README.md) / fabrication d'une machine pour assister la fabrication de tampon à Bruxelles, technique de fabrication et usage pédagogique.
+4. : Workshop 4 interprofessionnel de conception / fabrication de tampon avec les enfants à Rome  
 
 *II - Espaces d'immersion sur les territoires*  
-5. : Participation au débat public dans le cadre du festival Oxcar in Barcelone  
-6. : Tests d'usage des tampons avec des non publics appliqués aux arts décoratifs et à la gastronomie à St Denis  
-7. : Débat public concernant la place du numérique et des savoir-faire dans l'économie de proximité  à St Denis  
-8. : Séminaire interprofessionnel et ouvert au public sur la production d'un design collaboratif à Liepajas  
+5. : Participation au débat public dans le cadre du festival Oxcar, à Barcelone  
+6. : Tests d'usage des tampons avec des non-publics appliqués aux arts décoratifs et à la gastronomie, à St-Denis  
+7. : Débat public concernant la place du numérique et des savoir-faire dans l'économie de proximité, à St-Denis  
+8. : Séminaire interprofessionnel et ouvert au public sur la production d'un design collaboratif, à Liepajas  
 9. : Tests d'usage des tampons avec des jeunes publics et des familles appliqués au textile   
 10. : Séminaire transnational de clôture du projet   
 
