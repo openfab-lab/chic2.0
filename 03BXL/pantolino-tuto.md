@@ -6,7 +6,7 @@ Pantographe for engraving on lino
 - [Tools you'll need](#tools)
 - [Materials](#mat)
 - Building process
-  - [Arms](#structure)
+  - [Arms](/03BXL/pantolino-tuto-arms.md)
   - [3d parts](#parts)
   - [Engraving tool](#engraving)
 
@@ -34,10 +34,11 @@ You'll need access to :
 - proxxon micromot 50/E ref: 28515 (+-83€/pc)
 - proxxon flexible 110/P ref: 28620 (+-33€/pc)
 - Microswitch spdt (+-1.5€/pc)
-
-<a name="structure"/>
-
-### Arm structure
+- screws and bolts
+  - 2x screws M6x16, Hex Drive Flat Head
+  - 1x M6 nut
+  - 1x M6 washer
+  - 2x screws M3x16, Hex Drive socket
 
 <a name="parts"/>
 
