@@ -1,4 +1,4 @@
-# Workshop 4 - Rome
+# Workshop 5 - Rome
 Artiste Belge : [Lara Denil](http://www.laradenil.be/)
 
 - Présentation:  
