@@ -19,7 +19,7 @@ Print these on FDM printer, PLA or ABS. (I used PLA, it's good enought)
 
 ### 1. Fixed point
 to print:
-  - 1x **01Universal_Dovetail Table_Clamp_40mm.stl**
+  - 1x **01Universal_Dovetail Table_Clamp_40mm.stl**  
   <img src="https://user-images.githubusercontent.com/12049360/30418844-a3bf59a0-9934-11e7-8bcf-096b87f55556.png" height="200"></img>  
   Layer 0.3 - shell3 - infill 30  (*2h25, 25g*)  
 
