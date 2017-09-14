@@ -14,30 +14,36 @@
 1. Tool point, we have the rotary tool there, the engraving bit.
 1. Guide point, where we handle the all thing.
 
+STL files are to be found in the folder ["Production ready"](/03BXL/Production%20ready)
+Print these on FDM printer, PLA or ABS. (I used PLA, it's good enought)
 
-### 1. fixed point
+### 1. Fixed point
 to print:
-  - 1x 01Universal_Dovetail Table_Clamp_40mm.stl
+  - 1x **01Universal_Dovetail Table_Clamp_40mm.stl**
   <img src="https://user-images.githubusercontent.com/12049360/30418844-a3bf59a0-9934-11e7-8bcf-096b87f55556.png" height="200"></img>  
   Layer 0.3 - shell3 - infill 30  (*2h25, 25g*)  
-  - 1x 01Universal_Dovetail_Set_Screw_40mm.stl
-  - 1x 01FixPoint.stl
+
+  > Universal Dovetail Mounts and Clamps (http://www.thingiverse.com/thing:1460590) by dmerand is licensed under the Creative Commons - Attribution - Share Alike license.
+  - 1x **01Universal_Dovetail_Set_Screw_40mm.stl**  
+  <img src="https://user-images.githubusercontent.com/12049360/30440622-67852936-9977-11e7-98d1-8e798b77e373.png" height="200"></img>  
+  Layer 0.2 - shell3 - infill 20 (*1h17, 6g*)
+  > Universal Dovetail Mounts and Clamps (http://www.thingiverse.com/thing:1460590) by dmerand is licensed under the Creative Commons - Attribution - Share Alike license.
+  - 1x **01FixPoint.stl**
 
 
 ### 2. Tool point  
 to print:   
-- 1x FlexHolder.stl
-- 1x proxxon-FlexMountAB.stl
-- 1x Shield.stl
-- 2x UltraBolt.stl
+- 1x **FlexHolder.stl**  
+<img src="https://user-images.githubusercontent.com/12049360/30382115-912acf86-989e-11e7-9957-c521385bd6d2.png" height="220"></img>  
+Layer 0.3 - shell3 - infill 20 (*2h07, 21.5g*)
+- 1x **proxxon-FlexMountAB.stl**  
+<img src="https://user-images.githubusercontent.com/12049360/30419470-b9fd5df0-9936-11e7-9014-fdcec8fabce1.png" height="220"></img>  
+Layer 0.2 - shell3 - infill 20 + Brim 10 (*5h, 21g*)
+- 1x **Shield.stl**
+- 2x **UltraBolt.stl**
 
-<img src="https://user-images.githubusercontent.com/12049360/30068675-c6a146cc-925e-11e7-9093-bc30cfde4b10.jpg" height="220"></img> vs
-<img src="https://user-images.githubusercontent.com/12049360/30112917-3e440e30-9313-11e7-8acf-e4f7f97b3890.png" height="220"></img>
-### Drill holes
-- Print the [pdf template A3](/Production%20ready/PantoL-Gabarit.pdf)
-- cut the template and place on the slate with tape
-- drill 6mm holes and take off the paper  
-<img src="https://user-images.githubusercontent.com/12049360/30068666-bd69449c-925e-11e7-9220-e7f3c2340c2c.jpg" height="220"></img>
-<img src="https://user-images.githubusercontent.com/12049360/30068671-c145a0d8-925e-11e7-8846-cb2e644b3329.jpg" height="220"></img>
+
+### 3. Guide point
+- 1x **03EndPoint.stl**
 
 ### Assembly
