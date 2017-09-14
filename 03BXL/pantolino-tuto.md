@@ -7,7 +7,7 @@ Pantographe for engraving on lino
 - [Materials](#mat)
 - Building process
   - [Arms](/03BXL/pantolino-tuto-arms.md)
-  - [3d parts](#parts)
+  - [3d parts](/03BXL/pantolino-tuto-3d.md)
   - [Engraving tool](#engraving)
 
 
