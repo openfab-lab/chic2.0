@@ -30,7 +30,7 @@ So, to access the motor:
 <img src="https://user-images.githubusercontent.com/12049360/30100439-334939e4-92e9-11e7-90e7-a96586d05955.jpg" height="400"></img>  
 - Unsolder the other. Look how I place the motor.
 <img src="https://user-images.githubusercontent.com/12049360/30100455-41e1f1e4-92e9-11e7-9171-4356092ff2e7.jpg" height="400"></img>
-- Drill a small hole on the backendof the yellowish handle, arround 5 or 6mm diam.  
+- Drill a small hole on the backend of the yellow-ish handle, arround 5 or 6mm diam. depending of your wire.    
 Pass the wire through this hole and solder one end to the unsoldered motor pole. The other end is to be solder to the original wire.  
 Try to power up the thing and put togheter the other ends on the wire, to be sure it's working before closing the handle.  
 <img src="https://user-images.githubusercontent.com/12049360/30100720-fe43e0ae-92e9-11e7-868c-aba94a297918.jpg" height="400"></img>
