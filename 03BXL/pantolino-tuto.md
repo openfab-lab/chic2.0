@@ -8,7 +8,7 @@ Pantographe for engraving on lino
 - Building process
   - [Arms](/03BXL/pantolino-tuto-arms.md)
   - [3d parts](/03BXL/pantolino-tuto-3d.md)
-  - [Engraving tool](#engraving)
+  - [Engraving tool](/03BXL/pantolino-tuto-tool.md)
 
 
 
@@ -24,6 +24,8 @@ You'll need access to :
 - cutter
 - sander belt, *or just sand paper*
 - drill press, *or just a drill*
+- solder kit,
+- screwdriver torx T9
 
 <a name="mat"/>
 
@@ -39,11 +41,3 @@ You'll need access to :
   - 1x M6 nut
   - 1x M6 washer
   - 2x screws M3x16, Hex Drive socket
-
-<a name="parts"/>
-
-### Specifics 3d parts
-
-<a name="engraving"/>
-
-### Engraving tool
