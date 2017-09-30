@@ -5,7 +5,7 @@ Pantographe for engraving on lino
 
 - [Tools you'll need](#tools)
 - [Materials](#mat)
-- Building process
+- [Building process](#ass)
   - [Arms](/03BXL/pantolino-tuto-arms.md)
   - [3d parts](/03BXL/pantolino-tuto-3d.md)
   - [Engraving tool](/03BXL/pantolino-tuto-tool.md)
@@ -41,3 +41,21 @@ You'll need access to :
   - 1x M6 nut
   - 1x M6 washer
   - 2x screws M3x16, Hex Drive socket
+  - more comming... - to complete -  
+- zipties.
+- Mecanical pencil, *I use a [Bic'matic](https://www.amazon.fr/BIC-Matic-Original-Porte-Mines-0-7mm/dp/B000SHP5P0), it's pretty common. If not, be carrefull to match the diameter with inner diameter on 3d guide parts.*  
+
+<a name="ass"/>
+
+### Assembly
+So, start with ordering proxxon and print all parts.  
+- Then hack the motor to add an external switch, it will be screwed near the guide, where you can easily access whit your index or thumb.  
+
+- Put together the wood parts.  
+- assemble fix point and attach to the pantograph on "A"
+- assemble parts, insert flexible pen and screw "FlexHolder" on "FG"
+- assemble and screw "Endpoint" on "D", add a pen
+
+- fix the power supply on the end, further than "A" and fix the proxxon motor on the arm between "A" and "E" with zipties.
+- secure the flexible with zipties along the structure. Carefull not to restrain the movement of the pantograph.
+- screw the microswitch and secure the wire with zipties.
