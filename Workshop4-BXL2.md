@@ -1,4 +1,4 @@
-# Workshop 3 - Bruxelles MadeInKit
+# Workshop 4 - Bruxelles MadeInKit
 **24, 25, 26 Mai 2017**
 
 Artiste Belge : [Lara Denil](http://www.laradenil.be/)  
@@ -41,4 +41,3 @@ N'hésitez pas partager l'information avec les amateurs de découverte et de bri
 - [Description du pantographe et développement lors de BXL1](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/2017-04-30-bxl1.md)
 
 *version 2 à suivre....*
-
