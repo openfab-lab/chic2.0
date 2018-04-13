@@ -60,3 +60,5 @@ Layer 0.2 - shell3 - infill 20 (*0.6h, 4.5g*)
 <img src="https://user-images.githubusercontent.com/12049360/31045497-8f5dbb7e-a5e5-11e7-95ee-fe6e2f507b3c.png" height="220"></img>   
 Layer 0.3 - shell3 - infill 20 (*1.8h, 17.5g*)
 ### Assembly
+
+1. Fixpoint, [how to assemble it: the pdf](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Production%20ready/01FixPoint.pdf)
