@@ -3,7 +3,7 @@
 
 Designer : [Désiré Nwaobasi (Fabmanager Fablab de l'Académie des beaux-arts de Bruxelles)](https://www.facebook.com/fablab.arba.esa/)  
 Fabmanager Belge : [Nicolas de Barquin](http://www.openfab.be/)  
-Représentants France : [Michela Aragni](http://www.pointcarre.coop/)
+Représentants France : [Michela Aragni](http://www.pointcarre.coop/)  
 Représentants Italie : [Marianna and Leo](https://www.mdbr.it/)  
 Documentation vidéo : [Chadi Abou Sariya](http://www.miam-miam.eu/fr/home/)  
 
